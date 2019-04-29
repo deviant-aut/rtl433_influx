@@ -43,6 +43,7 @@ mappings = {
         'battery_mV': None,
 
         'rain': None,
+        'rain_mm' : None,
         'rain_rate': None,
         'total_rain': None,
         'rain_total': None,
